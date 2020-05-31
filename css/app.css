@@ -1,0 +1,11 @@
+section {
+  padding: 50px 20px 50px 0;
+}
+
+.row {
+  padding: 10px 0;
+}
+
+.bg-primary {
+  background-color: #57068C !important;
+}
