@@ -9,3 +9,7 @@ section {
 .bg-primary {
   background-color: #57068C !important;
 }
+
+h6 {
+  margin-top: 15px;
+}
